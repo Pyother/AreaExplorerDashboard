@@ -1,24 +1,3 @@
-# areaexplorerdashboard
+# AreaExplorerDashboard 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+An application that serves as a navigation panel for a mobile robot designed to detect hazardous factors. 
